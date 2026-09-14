@@ -1,4 +1,4 @@
-<img width="1142" height="707" alt="image" src="https://github.com/user-attachments/assets/ccb202c4-eeca-45e1-8872-382f769f8558" /># Motorola Sales Performance Dashboard
+# Motorola Sales Performance Dashboard
 
 An interactive Power BI dashboard created to analyze Motorola sales performance.
 
